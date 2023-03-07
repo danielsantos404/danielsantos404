@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Olá, mundo! Me chamam de Daniel 👽 </h1>
 
-<!--
-**danielsantos404/danielsantos404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+	<img src="https://i.picasion.com/pic92/54b08c1d820d098f5d10616639bc6de8.gif" width="100" height="100"/>
+</div>
 
-Here are some ideas to get you started:
+<h4 align= "center">
+  Tenho 20 anos, sou estudante do nível superior de tecnologia em Análise e Desenvolvimento de Sistemas, iniciante no mundo da programação, apaixonado por linguagens     Front-End e um grande entusiasta do desenvolvimento web.
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <a hreaf="https://github.com/danielsantos404">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielsantos404&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos404&layout=compact&theme=dark"/>
+</div>
+	
