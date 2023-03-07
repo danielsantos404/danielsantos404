@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! 👽 </h1>
 
 <div align="center">
-	<img src="https://i.picasion.com/pic92/54b08c1d820d098f5d10616639bc6de8.gif" width="100" height="100"/>
+  <img src="https://i.picasion.com/pic92/54b08c1d820d098f5d10616639bc6de8.gif" width="100" height="100"/>
 </div>
 
 <h4 align= "center">
@@ -20,3 +20,8 @@
 </div>
 
 ##
+
+<p align="center">
+  <i>“[…] busquem conhecimento. “  —  BILÚ, et. 2009 👽</i>
+</p>
+	
