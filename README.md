@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👽 </h1>
+<h1 align="center">Olá, mundo! </h1>
 
 <div align="center">
   <img src="https://i.picasion.com/pic92/54b08c1d820d098f5d10616639bc6de8.gif" width="100" height="100"/>
