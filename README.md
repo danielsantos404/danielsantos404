@@ -9,7 +9,6 @@
 </h4>
 
 <div align="center">
-  <a hreaf="https://github.com/danielsantos404">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielsantos404&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos404&layout=compact&theme=dark"/>
 </div>
