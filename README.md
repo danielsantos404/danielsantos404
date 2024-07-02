@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-   Meu nome é Daniel, tenho 21 anos, sou estudante do nível superior de tecnologia em Análise e Desenvolvimento de Sistemas, iniciante no mundo da programação, apaixonado por linguagens Front-End e um grande entusiasta do desenvolvimento web.
+   Meu nome é Daniel, tenho 22 anos, sou bacharel em Análise e Desenvolvimento de Sistemas, programador Front-End, e um grande entusiasta do desenvolvimento web.
 </p>
 
 <div align="center">
