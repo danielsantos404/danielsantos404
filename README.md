@@ -1,11 +1,11 @@
 <h1 align="center">Olá, mundo! </h1>
 
 <div align="center">
-  <img src="https://i.picasion.com/pic92/54b08c1d820d098f5d10616639bc6de8.gif" width="100" height="100"/>
+  <img src="https://i.picasion.com/pic92/9df3daf2bf4f0e36aa9c59c5ded2147b.gif" width="100" height="100"/>
 </div>
 
 <p align="center">
-   Meu nome é Daniel, tenho 22 anos, sou bacharel em Análise e Desenvolvimento de Sistemas, programador Front-End, e um grande entusiasta do desenvolvimento web.
+   Meu nome é Daniel, tenho 22 anos, sou Tecnólogo em Análise e Desenvolvimento de Sistemas, programador Front-End, e um grande entusiasta do desenvolvimento web.
 </p>
 
 <div align="center">
