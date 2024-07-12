@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! </h1>
 
 <div align="center">
-  <img src="https://i.picasion.com/pic92/9df3daf2bf4f0e36aa9c59c5ded2147b.gif" width="100" height="100"/>
+  <img src="https://i.picasion.com/pic92/d656bbfcab3cecaa3bb5287e1aa36e48.gif" width="100" height="100"/>
 </div>
 
 <p align="center">
