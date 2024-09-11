@@ -13,7 +13,7 @@
 <div align="center">
 	<p>Me contate:</p>
 	<a href="https://www.linkedin.com/in/daniel-fsantos/"><img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-	<a href="mailto:dan.danielfs@gmail.com"><img height="28em" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+	<a href="mailto:dan.danielfs@gmail.com?"><img height="28em" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"/></a>
 </div>
 	
 ##
