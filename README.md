@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Santos</h1>
 
 <div align="center">
-	<h3>Me contate:</h3>
+	<h3>Contate-me:</h3>
 	<a href="mailto:dan.danielfs@gmail.com"><img height="28em" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"/></a>
 	<a href="https://www.linkedin.com/in/daniel-fsantos/"><img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 </div>
