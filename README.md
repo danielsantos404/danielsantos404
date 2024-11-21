@@ -16,7 +16,6 @@
 <h3></h3>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos404&layout=compact&theme=gotham"/>
 </div>
  
 ##
