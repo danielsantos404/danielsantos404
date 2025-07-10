@@ -2,15 +2,22 @@
 
 <div align="center">
 	<h3>Contate-me:</h3>
-	<a href="mailto:dan.danielfs@gmail.com"><img height="28em" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"/></a>
-	<a href="https://www.linkedin.com/in/daniel-fsantos/"><img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+	  <a href="mailto:dan.danielfs@gmail.com">
+	    <img src="https://skillicons.dev/icons?i=gmail" />
+	  </a>
+	  <a href="https://www.linkedin.com/in/daniel-fsantos/">
+	    <img src="https://skillicons.dev/icons?i=linkedin" />	    
+	  </a>
 </div>
 
 <div align="center">
 	<h3>Estudando:</h3>
-	<img height="28em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-	<img height="28em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img height="28em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+	    <img src="https://skillicons.dev/icons?i=javascript,react,typescript" />
+</div>
+
+<div align="center">
+	<h3>Outras tecnologias:</h3>
+	<img src="https://skillicons.dev/icons?i=figma,html,css,git,github" />	    
 </div>
 
 <h3></h3>
