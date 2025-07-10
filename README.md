@@ -1,37 +1,46 @@
 <h1 align="center">Daniel Santos</h1>
 
+<h3 align="center">Contate-me:</h3>
+
 <div align="center">
-	<h3>Contate-me:</h3>
-	  <a href="mailto:dan.danielfs@gmail.com">
-	    <img src="https://skillicons.dev/icons?i=gmail" />
-	  </a>
-	  <a href="https://www.linkedin.com/in/daniel-fsantos/">
-	    <img src="https://skillicons.dev/icons?i=linkedin" />	    
-	  </a>
+  <a href="mailto:dan.danielfs@gmail.com"
+    ><img
+      src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"
+      alt="Gmail"
+      width="50"
+      height="50"
+  /></a>
+  <a href="www.linkedin.com/in/daniel-fsantos"
+    ><img
+      src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"
+      alt="Linkedin"
+      target="_blank"
+      width="50"
+      height="50"
+  /></a>
 </div>
 
 <div align="center">
-	<h3>Estudando:</h3>
-	    <img src="https://skillicons.dev/icons?i=javascript,react,typescript" />
+  <h3>Estudando:</h3>
+  <img src="https://skillicons.dev/icons?i=javascript,react,typescript" />
 </div>
 
 <div align="center">
-	<h3>Outras tecnologias:</h3>
-	<img src="https://skillicons.dev/icons?i=figma,html,css,git,github" />	    
+  <h3>Outras tecnologias:</h3>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,git,github" />
 </div>
 
 <h3></h3>
 
 <div align="center">
-  	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos404&layout=compact&theme=gotham"/>
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos404&layout=compact&theme=gotham"
+  />
 </div>
- 
+
 ##
 
 <p align="center">
   <em>“[…] busquem conhecimento. “  —  BILÚ, et. 2009 👽</em>
 </p>
-	
-
-
-          
