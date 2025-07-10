@@ -10,7 +10,7 @@
       width="50"
       height="50"
   /></a>
-  <a href="https://www.linkedin.com/in/daniel-fsantos/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-fsantos/">
     <img
       src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"
       alt="Linkedin"
