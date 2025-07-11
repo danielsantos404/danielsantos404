@@ -42,11 +42,9 @@
 
   <details align="center">
     <summary>Créditos</summary>
-    - Skill Icons →
-    <a href="https://github.com/tandpfun/skill-icons">tandpfun</a>
+    <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>
     <br />
-    - GitHub Readme Stats →
-    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
   </details>
 
   ##
