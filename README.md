@@ -38,6 +38,17 @@
     />
   </div>
 
+  <br />
+
+  <details align="center">
+    <summary>Créditos</summary>
+    - Skill Icons →
+    <a href="https://github.com/tandpfun/skill-icons">tandpfun</a>
+    <br />
+    - GitHub Readme Stats →
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  </details>
+
   ##
 
   <p align="center">
