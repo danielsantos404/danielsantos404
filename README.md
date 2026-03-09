@@ -21,7 +21,7 @@
 
   <div align="center">
     <h3>Estudando:</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,react,firebase,typescript,java,mysql,c" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,firebase,javascript,java,mysql,c" />
   </div>
 
   <div align="center">
