@@ -20,31 +20,22 @@
   </a>
 
   <div align="center">
-    <h3>Estudando:</h3>
-    <img src="https://skillicons.dev/icons?i=typescript,react,firebase,javascript,java,mysql,c" />
+    <h3>Linguagens:</h3>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,py,mysql,c,css,html" />
   </div>
+
+  <br />
 
   <div align="center">
-    <h3>Outras tecnologias:</h3>
-    <img src="https://skillicons.dev/icons?i=figma,html,css,git,github" />
+    <h3>Tecnologias e Ferramentas:</h3>
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,electron,firebase,figma,vite,github,git" />
   </div>
-
-  <h3></h3>
-
-  <div align="center">
-    <img
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos404&layout=compact&theme=react"
-    />
-  </div>
-
+  
   <br />
 
   <details align="center">
     <summary>Créditos</summary>
     <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>
-    <br />
-    <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
   </details>
 
   ##
